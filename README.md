@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Hi, I'm Tim, an >Aspiring IT Professional</a>☺</h1>
 
-<a href="https://linkedin.com/in/Josh"
+<!--- <a href="https://linkedin.com/in/Josh" --->
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
