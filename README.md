@@ -19,7 +19,7 @@
 
 [twitter]: https://twitter.com
 [instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com/in
+[linkedin]: https://linkedin.com
 <!--
 **timsherrell/timsherrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
