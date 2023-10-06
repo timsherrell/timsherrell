@@ -15,7 +15,7 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: [https://linkedin.com](https://www.linkedin.com/in/tim-sherrell-1522581a8/)
+[linkedin]: [https://linkedin.com]
 <!--
 **timsherrell/timsherrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
