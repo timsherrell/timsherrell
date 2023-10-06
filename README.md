@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1>Hi, I'm Tim, an <a href="https://www.linkedin.com/in/tim-sherrell-1522581a8/">Aspiring IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
