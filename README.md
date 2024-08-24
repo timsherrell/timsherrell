@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Tutorials For Noobs (like me)</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/timsherrell/osticket-prereqs)
+  - [Setup a local server using IIS (Internet Information Services) and setup a free, open source ticketing system for practice with ticketing (osTicket)](https://github.com/timsherrell/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/timsherrell/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/timsherrell/ticket-lifecycle)
 - <b>Microsoft Azure</b>
