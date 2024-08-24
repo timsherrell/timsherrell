@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tim, an <a href="https://www.linkedin.com/in/tim-sherrell-1522581a8/">Aspiring IT Guy</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects For Noobs (like me)</h2>
+<h2>👨‍💻 IT Tutorials For Noobs (like me)</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/timsherrell/osticket-prereqs)
