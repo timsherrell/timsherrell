@@ -1,14 +1,5 @@
-<h1>Hi, I'm Tim, an <a href="https://www.linkedin.com/in/tim-sherrell-1522581a8/">Aspiring IT Guy</a>☺</h1>
+<h1>Hi, I'm Tim, an <a href="https://www.linkedin.com/in/tim-sherrell-1522581a8/"></a>☺</h1>
 
-<h2>👨‍💻 IT Tutorials For Noobs (like me)</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [Setup a local server using IIS (Internet Information Services). Run a free ticketing system in your browser (setup osTicket)](https://github.com/timsherrell/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/timsherrell/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/timsherrell/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/timsherrell/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/timsherrell/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
@@ -17,7 +8,7 @@
 
 [linkedin]: https://linkedin.com/in/tim-sherrell-1522581a8
 
-<p>I'm currenly working on building IT tutorials and playing around with hacking tools</p>
+
 
 <!--
 **timsherrell/timsherrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
