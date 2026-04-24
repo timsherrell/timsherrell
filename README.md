@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim, an <a href="https://www.linkedin.com/in/tim-sherrell-1522581a8/"></a>☺</h1>
+<h1>Hi, I'm Tim</h1>
 
 
 <h2>🤳Connect with me:</h2>
